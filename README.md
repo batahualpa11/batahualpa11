@@ -41,12 +41,12 @@
 <!--h1 without bottom border-->
 ### Toolkit for:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=35&lines=Machine+Learning;Software+Design;Competitive+Programming;+Messing+Around...&hearts;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3000&color=cyan&size=35&center=false&vCenter=true&width=550&height=35&lines=Machine+Learning;Data+Analysis;Software+Design;+Debugging...&hearts;)
   <!-- Language section -->
 * <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,java,html,css,java,ts,c,go&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,java,html,css,ts,c&perline=10" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 * <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,react,nextjs,express,nodejs,django,bootstrap,flask&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,tensorflow,nextjs,express,nodejs,bootstrap&perline=10" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 * <h3 align="left">Services:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,discord,docker,figma,firebase,github,idea,linux,mongodb,mysql,postman,vscode&perline=15" />
+    <img src="https://skillicons.dev/icons?i=aws,discord,docker,figma,eclipse,firebase,github,linux,mongodb,mysql,vscode&perline=15" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 ----
 <!-- Message -->
 <div align="center">
-  <p style="font-size: 20px;">Feel free to check out my work through my organizations, add to any of  my personal projects, or get in touch if you are looking for an interesting conversation on modern ML.
+  <p style="font-size: 20px;">Feel free to check out my work through my organizations, add to any of  my personal projects, or get in touch if you are looking for someone to work with on projects.
   </p>
 </div>
 
