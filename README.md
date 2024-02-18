@@ -29,7 +29,7 @@
 
 - 📝 You can find my projects on [GitHub](https://github.com/batahualpa11?tab=repositories)
 
-- 💬 Ask me about **Generative Ai, Hackathons, Startups, or Futébol**
+- 💬 Ask me about **Generative Ai, Hackathons, Peruvian Food, or Futébol**
 
 - 📫 Feel free to reach me at **brianatahualpa@gmail.com**
 
