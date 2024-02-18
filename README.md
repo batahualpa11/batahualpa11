@@ -16,24 +16,24 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Studying Machine Learning and Software Development</h2></summary>
+    <summary><h2 style="display: inline-block">Studying Machine Learning with Interest in Large Language Models (LLM)</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working as a **Deep Learning Researcher at an NSF REU and Backend Developer & ML Intern at Ticket Wallet.**
+- 🔭 I’m currently volunteering as **IT Support for Queens Public Library.**
 
-- 🌱 I’m learning more about **Federated Deep Learning, Streaming Algorithms, and Combinatorics.**
+- 🌱 I’m learning more about **Deep Learning, IoT, and PCB Design.**
 
-- 🎓 Pursuing a B.S.E. in Computer Science at **Princeton University** with a GPA of **3.97/4.0.**
+- 🎓 Completed a A.S. in Computer Science at **Queensborough Community College** with a GPA of **3.86/4.0.**
 
-- 📝 You can find my projects on [GitHub](https://github.com/devs-cs)
+- 📝 You can find my projects on [GitHub](https://github.com/batahualpa11?tab=repositories)
 
-- 💬 Ask me about **NLP, Computer Vision, Algorithm Design, or cool puzzles**
+- 💬 Ask me about **Generative Ai, Hackathons, Startups, or Futébol**
 
-- 📫 Feel free to reach me at **devanshah1@acm.org**
+- 📫 Feel free to reach me at **brianatahualpa@gmail.com**
 
-- 👥 Connect with me on [LinkedIn](https://linkedin.com/in/devan-j-shah)
+- 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/brian-atahualpa/))
 <!--Intro end-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
