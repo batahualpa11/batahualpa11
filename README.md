@@ -25,9 +25,9 @@
 
 - 🌱 I’m learning more about **Deep Learning, IoT, and PCB Design.**
 
-- 🎓 Completed a A.S. in Computer Science at **Queensborough Community College** with a GPA of **3.86/4.0.**
+- 🎓 Completed a A.S. in Computer Science at **CUNY Hunter College** with a GPA of **3.86/4.0.**
 
-- 📝 You can find my projects on [GitHub](https://github.com/batahualpa11?tab=repositories)
+- 📝 You can find my projects on [GitHub]([https://github.com/batahualpa11?tab=repositories](https://batahualpa11.github.io/personal-portfolio/))
 
 - 💬 Ask me about **Generative Ai, Hackathons, Peruvian Food, or Futébol**
 
