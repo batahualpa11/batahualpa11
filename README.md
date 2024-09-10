@@ -27,7 +27,7 @@
 
 - 🎓 Completed a A.S. in Computer Science at **CUNY Hunter College** with a GPA of **3.86/4.0.**
 
-- 📝 You can find my projects on [GitHub]([https://github.com/batahualpa11?tab=repositories](https://batahualpa11.github.io/personal-portfolio/))
+- 📝 You can find my projects on [GitHub](https://batahualpa11.github.io/personal-portfolio/))
 
 - 💬 Ask me about **Generative Ai, Hackathons, Peruvian Food, or Futébol**
 
