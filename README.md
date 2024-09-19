@@ -25,7 +25,7 @@
 
 - 🌱 I’m learning more about **Deep Learning, IoT, and PCB Design.**
 
-- 🎓 Completed a A.S. in Computer Science at **CUNY Hunter College** with a GPA of **3.86/4.0.**
+- 🎓 Obtaining a B.A. in Computer Science at **CUNY Hunter College** 
 
 - 📝 You can find my projects on [GitHub](https://batahualpa11.github.io/personal-portfolio/))
 
