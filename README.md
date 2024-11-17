@@ -23,7 +23,7 @@
 <!--Intro start-->
 - 🔭 I’m currently volunteering as **IT Support for Queens Public Library.**
 
-- 🌱 I’m learning more about **Deep Learning, IoT, and PCB Design.**
+- 🌱 I’m learning more about **iOS Development, Artificial Intelligence, and PCB Design.**
 
 - 🎓 Obtaining a B.A. in Computer Science at **CUNY Hunter College** 
 
