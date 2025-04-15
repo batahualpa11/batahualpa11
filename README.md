@@ -78,6 +78,6 @@
 <!--profile visit count-->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=batahualpa11&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
+  ![Visitor Count](https://profile-counter.glitch.me/{batahualpa11}/count.svg)
   
 </div>
